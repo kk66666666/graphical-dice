@@ -65,6 +65,7 @@ input.onGesture(Gesture.Shake, function () {
             basic.showString("Lose")
         }
         ok = 0
+        sum = 0
     }
 })
 let number = 0
